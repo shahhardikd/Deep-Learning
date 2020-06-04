@@ -5,6 +5,9 @@ The aim of this excercise is to learn Deep Learning basics like Neural Nets, CNN
 2. Image verification
 3. Image recognition
 4. Image mixing to create art 
+5. Creating new names of dinosaurs
+6. Generating music
+7. Creating shakespeare sentences
 
 and open up the field of Deep Learning to many such applications.
 
